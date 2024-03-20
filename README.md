@@ -6,7 +6,7 @@ Como base do processo foi utilizado um vídeo do youtube do canal _Automation St
 
 JDK - 17 (Teste colocando este comando no seu terminal `javac -version`)
 
-Scala - 3.1 (Tetse com este comando no CMD `scala -version`)
+Scala - 3.1 (Teste com este comando no CMD `scala -version`)
 
 Maven apache (Teste usando no cmd `mvn -version`)
 
