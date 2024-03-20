@@ -40,3 +40,6 @@ Clique em No Static Resources
 Start
 
 Então verifique a pasta target > gatling > sua classe
+
+
+<b> Aula do professor: Francisco Assis Moreira do Nascimento </b>
